@@ -1,0 +1,20 @@
+[
+    {
+        "id": "bb5d6a62.82b258",
+        "type": "http in",
+        "z": "b5231a88.334408",
+        "name": "Clear GPIO5",
+        "url": "/clear5",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 172,
+        "y": 279,
+        "wires": [
+            [
+                "1295f7c0.ba0ee8",
+                "5ed500ce.01239"
+            ]
+        ]
+    }
+]
